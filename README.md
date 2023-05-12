@@ -1,5 +1,5 @@
 
-#Dictionary Being Builded Henrique
+#Dictionary Being Builded by Henrique
 
 # Henrique's Dictionary
 
