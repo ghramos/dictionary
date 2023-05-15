@@ -12,3 +12,5 @@ Dictionary of terms, aumentativos, diminutivos, antonym, synonym, disfuncionais 
 The principal dictionary is the Dictionary with the terms with literal meaning
 
 version of dictionary have
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md](https://ghramos.github.io/dictionary/universe/1-universe.md)
